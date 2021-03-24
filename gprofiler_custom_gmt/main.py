@@ -50,7 +50,7 @@ def main(args):
     res.to_csv(args.output)
 
 
-if __name__ == '__main__':
+def cli():
     import sys
     args = parser().parse_args(sys.argv[1:])
     main(args)
