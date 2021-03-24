@@ -1,0 +1,10 @@
+,source,native,name,p_value,significant,description,term_size,query_size,intersection_size,effective_domain_size,precision,recall,query,parents
+0,pharmGKB,PA10004,Chemical:adalimumab,2.95362825164141e-22,True,Chemical:adalimumab,38,14,14,1559,1.0,0.3684210526315789,query_1,[]
+1,pharmGKB,PA449515,Chemical:etanercept,1.950741125235437e-17,True,Chemical:etanercept,34,14,12,1559,0.8571428571428571,0.35294117647058826,query_1,[]
+2,pharmGKB,PA452639,Chemical:infliximab,2.4944469940131387e-17,True,Chemical:infliximab,23,14,11,1559,0.7857142857142857,0.4782608695652174,query_1,[]
+3,pharmGKB,PA443434,"Disease:Arthritis, Rheumatoid",2.7312748884938026e-08,True,"Disease:Arthritis, Rheumatoid",88,14,10,1559,0.7142857142857143,0.11363636363636363,query_1,[]
+4,pharmGKB,PA164713366,Chemical:Tumor necrosis factor alpha (TNF-alpha) inhibitors,2.7128529277442355e-07,True,Chemical:Tumor necrosis factor alpha (TNF-alpha) inhibitors,50,14,8,1559,0.5714285714285714,0.16,query_1,[]
+5,pharmGKB,PA446198,"Disease:Arthritis, Psoriatic",2.329390264897845e-05,True,"Disease:Arthritis, Psoriatic",7,14,4,1559,0.2857142857142857,0.5714285714285714,query_1,[]
+6,pharmGKB,PA451261,Chemical:rituximab,0.00010540134305300838,True,Chemical:rituximab,22,14,5,1559,0.35714285714285715,0.22727272727272727,query_1,[]
+7,pharmGKB,PA445724,"Disease:Spondylitis, Ankylosing",0.00038042121270413017,True,"Disease:Spondylitis, Ankylosing",4,14,3,1559,0.21428571428571427,0.75,query_1,[]
+8,pharmGKB,PA445451,Disease:Psoriasis,0.00041720744541984923,True,Disease:Psoriasis,52,14,6,1559,0.42857142857142855,0.11538461538461539,query_1,[]
